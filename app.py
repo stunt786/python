@@ -36,7 +36,7 @@ def webout():
 	</head>
 	<body>
 		<div class="container">
-			<h1>DevOps is fun.</h1>
+			<h1>DevOps is fun and Wonderful!</h1>
 		</div>
 	</body>
 	</html>
