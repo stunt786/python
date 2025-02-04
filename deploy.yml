@@ -27,5 +27,5 @@
         detach: yes
         tty: yes
         ports:
-          - "8000:7000"
+          - "8001:7000"
         restart_policy: always
