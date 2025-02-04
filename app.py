@@ -6,6 +6,7 @@ app = Flask(__name__)
 def webout():
 	
 	return '<h2>This is wonderful Project</h2>'
+	return '<h2>We are awsome/h2>'
 
 if __name__ == '__main__':
 	app.run(host='0.0.0.0', port=7000)
